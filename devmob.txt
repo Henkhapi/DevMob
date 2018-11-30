@@ -1,0 +1,8 @@
+dans roation du setTransform : 
+body.pos.x,body.pos.y,body.angle + v1.sub(v2).atoRadiant()
+
+translation
+faire des calcul de vecteur 
+
+
+Et après,on remplace
